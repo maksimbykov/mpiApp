@@ -1,0 +1,14 @@
+﻿Build started 11.04.2014 21:59:10.
+     1>Project "c:\Users\Макс\documents\visual studio 2012\Projects\mpiApp\mpiApp\mpiApp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\макс\documents\visual studio 2012\projects\mpiapp\mpiapp\source.cpp(11): warning C4101: 'status' : unreferenced local variable
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\макс\documents\visual studio 2012\Projects\mpiApp\Debug\mpiApp.exe" /INCREMENTAL /NOLOGO msmpi.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\макс\documents\visual studio 2012\Projects\mpiApp\Debug\mpiApp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\макс\documents\visual studio 2012\Projects\mpiApp\Debug\mpiApp.lib" /MACHINE:X86 Debug\Source.obj
+         mpiApp.vcxproj -> c:\users\макс\documents\visual studio 2012\Projects\mpiApp\Debug\mpiApp.exe
+     1>Done Building Project "c:\Users\Макс\documents\visual studio 2012\Projects\mpiApp\mpiApp\mpiApp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.00
